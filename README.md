@@ -1,6 +1,6 @@
 **Automated Google Search and Results Extraction with Graphical Interface**
 
-This project stems from the need to streamline my work in marketing, where online information search and extraction are constant tasks. This tool represents a solution to this need by automating Google search and efficiently presenting the results through a user-friendly graphical interface.
+This project originates from the need to streamline marketing tasks involving constant online information retrieval and extraction. It introduces an effective solution by automating Google searches and seamlessly presenting results via a user-friendly graphical interface. Data criteria can be effortlessly input through the interface without requiring code modification. Additionally, the collected data is conveniently saved in an Excel file within the user's chosen directory.
 
 **Solved Problem:** 
 Have you felt the pressure of exhaustive online data search for your marketing tasks? This tool directly addresses this concern, enabling marketing professionals to collect valuable information with ease and precision.
